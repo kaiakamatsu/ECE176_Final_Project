@@ -8,3 +8,5 @@ Dataset: [Chest X-Ray](https://www.kaggle.com/datasets/praveengovi/coronahack-ch
 ECE176.ipynb: Simple CNN, Resnet, VGG16, Transfer Learning
 
 Unet.ipynb: UNET
+
+**See final report:** Covid_CNN.pdf
